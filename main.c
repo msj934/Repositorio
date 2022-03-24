@@ -6,5 +6,5 @@ int main(){
 	a=89;
 	b=7;
 	c=5;
-	printf("%i",a);
+	printf("%i %i %i",a,b,c);
 }
