@@ -2,7 +2,8 @@
 #include <studio.h>
 
 int main(){
-	int a;
-	a=78;
+	int a,b;
+	a=89;
+	b=7;
 	printf("%i",a);
 }
