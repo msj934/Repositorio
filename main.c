@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
 	int a,b,c;
